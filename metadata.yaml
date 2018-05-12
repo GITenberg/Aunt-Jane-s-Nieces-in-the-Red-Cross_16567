@@ -1,0 +1,49 @@
+_repo: Aunt-Jane-s-Nieces-in-the-Red-Cross_16567
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hall, N. P.
+    alias: Hall, Norman P.
+    gutenberg_agent_id: '41795'
+    url: http://www.gutenberg.org/2009/agents/41795
+covers:
+- cover_type: archival
+  image_path: 16567-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Metcalf, Suzanne
+    - Bancroft, Laura
+    - Fitzgerald, Capt. Hugh
+    - Akers, Floyd
+    - Van Dyne, Edith
+    - Fitzgerald, Hugh
+    - Cooke, John Estes
+    - Baum, Lyman Frank
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: The ""Aunt Jane's Nieces"" series was a wildly popular juvenile fiction
+  collection written by L. Frank Baum, the author of The Wonderful Wizard of Oz, using
+  the feminine pen name ""Edith Van Dyne."" This book, the last in the series, has
+  the girls tending to wounded soldiers in the early battles of World War I.
+gutenberg_issued: '2005-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Red Cross and Red Crescent -- Juvenile fiction'
+- !lcsh 'Nurses -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'War stories'
+- !lcsh 'World War, 1914-1918 -- Medical care -- Juvenile fiction'
+title: Aunt Jane's Nieces in the Red Cross
+url: http://www.gutenberg.org/ebooks/16567
